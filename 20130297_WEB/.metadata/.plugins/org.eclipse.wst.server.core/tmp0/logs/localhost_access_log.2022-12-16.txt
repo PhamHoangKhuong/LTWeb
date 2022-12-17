@@ -1,0 +1,13 @@
+127.0.0.1 - - [16/Dec/2022:22:22:08 +0700] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [16/Dec/2022:22:22:09 +0700] "GET /DemoDisplaynew/ HTTP/1.1" 200 22282
+0:0:0:0:0:0:0:1 - - [16/Dec/2022:22:22:10 +0700] "GET /DemoDisplaynew/js/easing.js HTTP/1.1" 404 708
+0:0:0:0:0:0:0:1 - - [16/Dec/2022:22:22:10 +0700] "GET /DemoDisplaynew/js/move-top.js HTTP/1.1" 404 710
+0:0:0:0:0:0:0:1 - - [16/Dec/2022:22:22:10 +0700] "GET /favicon.ico HTTP/1.1" 404 684
+127.0.0.1 - - [16/Dec/2022:22:31:54 +0700] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [16/Dec/2022:22:31:55 +0700] "GET /DemoDisplaynew/ HTTP/1.1" 200 22282
+0:0:0:0:0:0:0:1 - - [16/Dec/2022:22:31:56 +0700] "GET /DemoDisplaynew/js/easing.js HTTP/1.1" 404 708
+0:0:0:0:0:0:0:1 - - [16/Dec/2022:22:31:56 +0700] "GET /DemoDisplaynew/js/move-top.js HTTP/1.1" 404 710
+0:0:0:0:0:0:0:1 - - [16/Dec/2022:22:31:56 +0700] "GET /favicon.ico HTTP/1.1" 404 684
+0:0:0:0:0:0:0:1 - - [16/Dec/2022:22:31:59 +0700] "GET /DemoDisplaynew/login.jsp HTTP/1.1" 200 9155
+0:0:0:0:0:0:0:1 - - [16/Dec/2022:22:31:59 +0700] "GET /DemoDisplaynew/js/move-top.js HTTP/1.1" 404 710
+0:0:0:0:0:0:0:1 - - [16/Dec/2022:22:31:59 +0700] "GET /DemoDisplaynew/js/easing.js HTTP/1.1" 404 708
